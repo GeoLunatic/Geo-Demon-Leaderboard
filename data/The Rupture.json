@@ -1,0 +1,18 @@
+{
+    "id": 57828784,
+    "name": "The Rupture",
+    "author": "Ka1ns",
+    "creators": ["Ka1ns"],
+    "verifier": "Xaldz",
+    "verification": "https://www.youtube.com/watch?v=9fobyud7lek",
+    "percentToQualify": "79",
+    "password": "Free To Copy",
+    "records": [
+         {
+            "user": "Poly",
+            "link": "https://www.youtube.com/watch?v=cIW8bhNl_ek",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
