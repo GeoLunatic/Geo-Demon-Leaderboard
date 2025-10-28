@@ -8,5 +8,11 @@
     "percentToQualify": "77",
     "password": "Free To Copy",
     "records": [
+           {
+            "user": "tsxk",
+            "link": "https://www.youtube.com/watch?v=rvYhRCCZVts",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
