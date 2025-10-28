@@ -8,5 +8,11 @@
     "percentToQualify": "64",
     "password": "Free To Copy",
     "records": [
+           {
+            "user": "Koish",
+            "link": "https://www.youtube.com/watch?v=6UeFkDlmHUA",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
