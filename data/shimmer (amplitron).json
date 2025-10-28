@@ -8,5 +8,17 @@
     "percentToQualify": "78",
     "password": "Free To Copy",
     "records": [
+             {
+            "user": "SuperCSX",
+            "link": "https://www.youtube.com/watch?v=DoghZkLrzlI",
+            "percent": 100,
+            "hz": 240
+        },
+             {
+            "user": "SirCookie",
+            "link": "https://www.youtube.com/watch?v=7spZChPP6Ac",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
