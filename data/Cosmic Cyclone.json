@@ -1,4 +1,4 @@
-
+{
     "id": 76159410,
     "name": "Cosmic Cyclone",
     "author": "APTeamOfficial",
@@ -8,5 +8,11 @@
     "percentToQualify": "66",
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "jeff",
+            "link": "https://www.youtube.com/watch?v=M76SbNo4dAU",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
