@@ -1,0 +1,24 @@
+{
+    "id": ,
+    "name": "Aquatic Auroras",
+    "author": "EndLevel",
+    "creators": ["EndLevel"],
+    "verifier": "Poly",
+    "verification": "https://www.youtube.com/watch?v=4Pc54aq7yYk",
+    "percentToQualify": "63",
+    "password": "Free To Copy",
+    "records": [
+         {
+            "user": "jeff",
+            "link": "https://www.youtube.com/watch?v=NiG2nlHN8qk",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "Koish",
+            "link": "https://www.youtube.com/watch?v=5AIGMF3PK9o",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
