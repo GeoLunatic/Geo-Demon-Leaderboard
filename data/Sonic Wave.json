@@ -1,0 +1,48 @@
+{
+    "id": 26681070,
+    "name": "Sonic Wave",
+    "author": "Sunix",
+    "creators": ["Cyclic"],
+    "verifier": "Koish",
+    "verification": "https://www.youtube.com/watch?v=iF9dSRoY-hM",
+    "percentToQualify": "76",
+    "password": "Free To Copy",
+    "records": [
+         {
+            "user": "Lanmi",
+            "link": "https://www.youtube.com/watch?v=1NtHIohF7GU",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "robl",
+            "link": "https://www.youtube.com/watch?v=o_7pMItGpjw",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "luisf1234",
+            "link": "https://www.youtube.com/watch?v=Iy8jkuqCK7M",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "johngool42",
+            "link": "https://www.youtube.com/watch?v=SNBHCqwnCHs",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "Poly",
+            "link": "https://www.youtube.com/watch?v=S1uB9JsQoXY",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "Vesfect",
+            "link": "https://www.youtube.com/watch?v=8YmNNCChzlI",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
