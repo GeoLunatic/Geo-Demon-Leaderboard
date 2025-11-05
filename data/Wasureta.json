@@ -1,0 +1,24 @@
+{
+    "id": 64658786,
+    "name": "Wasureta",
+    "author": "Helpegasus",
+    "creators": ["Helpegasus"],
+    "verifier": "SuperCSX",
+    "verification": "https://www.youtube.com/watch?v=RBzctUg87-8",
+    "percentToQualify": "77",
+    "password": "Free To Copy",
+    "records": [
+         {
+            "user": "Peanutmnms",
+            "link": "https://www.youtube.com/watch?v=wx-KpBDcNTU",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "Koish",
+            "link": "https://www.youtube.com/watch?v=wFt4I8ne6L4",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
