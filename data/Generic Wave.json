@@ -1,0 +1,24 @@
+{
+    "id": 49576382,
+    "name": "Generic Wave",
+    "author": "Pennutoh",
+    "creators": ["Pennutoh", "Enlex"],
+    "verifier": "Koish",
+    "verification": "https://www.youtube.com/watch?v=YjTQVtfE-lM",
+    "percentToQualify": "76",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "johngool42",
+            "link": "https://www.youtube.com/watch?v=SNBHCqwnCHs",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "Lanmi",
+            "link": "https://www.youtube.com/watch?v=xE-SEOJIY8Y",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
