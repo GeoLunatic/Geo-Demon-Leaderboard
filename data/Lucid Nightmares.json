@@ -8,5 +8,11 @@
     "percentToQualify": "68",
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "johngool42",
+            "link": "https://www.youtube.com/watch?v=Ftc7XjS1BjA",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
