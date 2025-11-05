@@ -1,0 +1,36 @@
+{
+    "id": 68414488,
+    "name": "Molten Core",
+    "author": ".",
+    "creators": ["."],
+    "verifier": "robl",
+    "verification": "https://www.youtube.com/watch?v=J0Dj8vOkas8",
+    "percentToQualify": "68",
+    "password": "Free To Copy",
+    "records": [
+         {
+            "user": "Koish",
+            "link": "https://www.youtube.com/watch?v=Xpuc-uOj-rg",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "johngool42",
+            "link": "https://www.youtube.com/watch?v=0nQjZyBpukw",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "Poly",
+            "link": "https://www.youtube.com/watch?v=6FAGxMbCUBY",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "Lanmi",
+            "link": "https://www.youtube.com/watch?v=6FAGxMbCUBY",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
