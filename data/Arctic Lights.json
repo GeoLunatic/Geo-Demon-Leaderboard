@@ -1,0 +1,36 @@
+{
+    "id": 52919433,
+    "name": "Arctic Lights",
+    "author": "Metalface221",
+    "creators": ["iIiViRuZiIi", "EndLevel", "Hantein"],
+    "verifier": "Koish",
+    "verification": "https://www.youtube.com/watch?v=tb1ZxRTpkmI",
+    "percentToQualify": "66",
+    "password": "Free To Copy",
+    "records": [
+         {
+            "user": "jeff",
+            "link": "https://www.youtube.com/watch?v=1lgJLYptm4c",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "robl",
+            "link": "https://www.youtube.com/watch?v=c566Z-2egDY",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "johngool42",
+            "link": "https://www.youtube.com/watch?v=G-AOA2jvpwc",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "Lanmi",
+            "link": "https://www.youtube.com/watch?v=4fWYQHHtUiA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
