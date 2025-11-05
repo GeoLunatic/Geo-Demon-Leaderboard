@@ -1,0 +1,31 @@
+
+{
+    "id": 69871779,
+    "name": "Friday Vortex",
+    "author": "Cersia",
+    "creators": ["Cersia", "declan", "GrenadeofTacos"],
+    "verifier": "Poly",
+    "verification": "https://www.youtube.com/watch?v=xs4iItTzMJA",
+    "percentToQualify": "69",
+    "password": "Free To Copy",
+    "records": [
+         {
+            "user": "robl",
+            "link": "https://www.youtube.com/watch?v=VzxLSQX4qh8",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "Lanmi",
+            "link": "https://www.youtube.com/watch?v=kJhIbdK-1Hw",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "Koish",
+            "link": "https://www.youtube.com/watch?v=RLkp-lW6AQw",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
