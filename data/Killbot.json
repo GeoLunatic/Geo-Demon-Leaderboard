@@ -1,0 +1,24 @@
+{
+    "id": 38754426,
+    "name": "Killbot",
+    "author": "BoldStep",
+    "creators": ["Lithifusion"],
+    "verifier": "GeoLunatic",
+    "verification": "https://www.youtube.com/watch?v=D-CQx_WCejE",
+    "percentToQualify": "87",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Lanmi",
+            "link": "https://www.youtube.com/watch?v=Q-fyHwg9ueM",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "MrMarksman",
+            "link": "https://www.youtube.com/watch?v=j3HVK0beRpA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
