@@ -8,5 +8,29 @@
     "percentToQualify": "77",
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "Koish",
+            "link": "https://www.youtube.com/watch?v=w9WAP4dYQfc",
+            "percent": 100,
+            "hz": 240
+        },
+         {
+            "user": "Poly",
+            "link": "https://www.youtube.com/watch?v=v2WCqWOs4kE",
+            "percent": 100,
+            "hz": 240
+        },
+         {
+            "user": "Lanmi",
+            "link": "https://www.youtube.com/watch?v=zxkIEzNyBO0",
+            "percent": 100,
+            "hz": 240
+        },
+         {
+            "user": "MrMarksman",
+            "link": "https://www.youtube.com/watch?v=WmFot8_4g9c",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
