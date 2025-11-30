@@ -1,28 +1,16 @@
 {
-    "id": ,
+    "id": 27122654,
     "name": "Artificial Ascent",
-    "author": "",
-    "creators": [""],
-    "verifier": "",
-    "verification": "",
-    "percentToQualify": "69",
+    "author": "ViPriN",
+    "creators": ["ViPriN", "Codex", "Manix648", "Sanic", "Zobros", "Michigun", "Anthrax", "ZenthicAlpha", "Loogiah", "wamiq8", "nasgubb", "AbstractDark", "Etzer", "Serponge", "G4lvatron", "Terron", "lmAnubis", "GDSpeed"],
+    "verifier": "MyiIbiiM",
+    "verification": "https://www.youtube.com/watch?v=BZC7TnttsV8&t=191s",
+    "percentToQualify": "70",
     "password": "Free To Copy",
     "records": [
          {
-            "user": "Lanmi",
-            "link": "https://www.youtube.com/watch?v=HjFpAZvkUAs",
-            "percent": 100,
-            "hz": 240
-        },
-         {
-            "user": "MyiIbiiM",
-            "link": "https://www.youtube.com/watch?v=MqeHROCwVrM&t=385s",
-            "percent": 100,
-            "hz": 240
-        },
-            {
-            "user": "Xaldz",
-            "link": "https://www.youtube.com/watch?v=19OqFbJgPqg&t=136s",
+            "user": "MrMarksman",
+            "link": "https://www.youtube.com/watch?v=Bt9L44Iaz7Y",
             "percent": 100,
             "hz": 240
         }
