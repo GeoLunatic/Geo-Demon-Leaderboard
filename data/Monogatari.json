@@ -1,0 +1,18 @@
+{
+    "id": 106492648,
+    "name": "Monogatari",
+    "author": "OnilinkGD",
+    "creators": ["OnilinkGD, AdutzHD"],
+    "verifier": "Peanutmnms",
+    "verification": "https://www.youtube.com/watch?v=3ypC-ulAYfY",
+    "percentToQualify": "75",
+    "password": "Free To Copy",
+    "records": [
+         {
+            "user": "Vesfect",
+            "link": "https://www.youtube.com/watch?v=HX-PGCTgqSQ",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
