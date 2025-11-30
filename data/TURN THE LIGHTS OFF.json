@@ -1,0 +1,18 @@
+{
+    "id": 94383049,
+    "name": "TURN THE LIGHTS OFF",
+    "author": "nikoberry",
+    "creators": ["nikoberry"],
+    "verifier": "Peanutmnms",
+    "verification": "https://www.youtube.com/watch?v=1h2_uKP6i9Q",
+    "percentToQualify": "69",
+    "password": "Free To Copy",
+    "records": [
+         {
+            "user": "DRG",
+            "link": "https://www.youtube.com/watch?v=VfMfMpe-sv0",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
