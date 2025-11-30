@@ -1,0 +1,24 @@
+{
+    "id": 95255152,
+    "name": "Bete Noire",
+    "author": "ThePurgatory115",
+    "creators": ["demian", "hakim", "wesus", "noobypro", "print", "Kacurroo", "Roselyne", "shadowclaw", "elis96", "Bedrock", "GamerKnight750", "darkevan", "IvashkaUA", "Adrone", "Synd", "Phantom7Ks", "Raily", "hawks", "Runo", "GDNacho"],
+    "verifier": "Koish",
+    "verification": "https://www.youtube.com/watch?v=sHGlwthFYn0",
+    "percentToQualify": "46",
+    "password": "Free To Copy",
+    "records": [
+         {
+            "user": "robl",
+            "link": "https://www.youtube.com/watch?v=2q4am4aeGnE",
+            "percent": 100,
+            "hz": 240
+        },
+         {
+            "user": "Lanmi",
+            "link": "https://www.youtube.com/watch?v=tEcT8VeG7R4",
+            "percent": 100,
+            "hz": 240
+         }
+    ]
+}
