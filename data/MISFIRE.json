@@ -8,5 +8,35 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Sinside",
+            "link": "https://www.youtube.com/watch?v=uSli0gAKTos",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "SmackinTheKraken",
+            "link": "https://www.youtube.com/watch?v=JlIHwCS8APs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "LittleD3m0",
+            "link": "https://www.youtube.com/watch?v=sT47wN1Cc38",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MyiIbiiM",
+            "link": "https://www.youtube.com/watch?v=DNJV5pTJ32Y&t=2s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Xaldz",
+            "link": "https://www.youtube.com/watch?v=e9PQGDeIUQU",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
