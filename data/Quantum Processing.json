@@ -8,5 +8,23 @@
     "percentToQualify": "71",
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "Koish",
+            "link": "https://www.youtube.com/watch?v=Gd4Mo0Q_2po",
+            "percent": 100,
+            "hz": 240
+        },
+         {
+            "user": "johngool42",
+            "link": "https://www.youtube.com/watch?v=tURg0RlODYs",
+            "percent": 100,
+            "hz": 240
+        },
+         {
+            "user": "Lanmi",
+            "link": "https://www.youtube.com/watch?v=b079-qZFa5E",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
