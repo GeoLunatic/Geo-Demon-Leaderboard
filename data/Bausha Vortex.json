@@ -1,0 +1,36 @@
+{
+    "id": 30380566,
+    "name": "Bausha Vortex",
+    "author": "Pennutoh",
+    "creators": ["Pennutoh"],
+    "verifier": "Koish",
+    "verification": "https://www.youtube.com/watch?v=XSl7frlOYOU",
+    "percentToQualify": "73",
+    "password": "Free To Copy",
+    "records": [
+         {
+            "user": "robl",
+            "link": "https://www.youtube.com/watch?v=nqXBllqazRw",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "Lanmi",
+            "link": "https://www.youtube.com/watch?v=qWMuYA3Ix20",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "johngool42",
+            "link": "https://www.youtube.com/watch?v=1dBW0AwuwQk",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "Aldia",
+            "link": "https://www.youtube.com/watch?v=QgJRqtvb5TQ",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
