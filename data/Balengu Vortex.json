@@ -1,0 +1,30 @@
+{
+    "id": 55385816,
+    "name": "Balengu Vortex",
+    "author": "Temp",
+    "creators": ["Temp", "ItsHybrid", "HJfod"],
+    "verifier": "robl",
+    "verification": "https://www.youtube.com/watch?v=nMdRykNV22c",
+    "percentToQualify": "73",
+    "password": "Free To Copy",
+    "records": [
+         {
+            "user": "Koish",
+            "link": "https://www.youtube.com/watch?v=mFDly3Aoa8M",
+            "percent": 100,
+            "hz": 240
+        },
+      {
+            "user": "Lanmi",
+            "link": "https://www.youtube.com/watch?v=HKH3fLJD7T4",
+            "percent": 100,
+            "hz": 240
+        },
+       {
+            "user": "MrMarksman",
+            "link": "https://www.youtube.com/watch?v=oQyPMEM2rXs",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
